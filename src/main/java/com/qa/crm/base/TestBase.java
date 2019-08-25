@@ -21,7 +21,7 @@ public class TestBase {
 	{
 		// Comment 1 to test git pull
 		// Pallavi is great;  shiva is waste and dabba nan maga
-		prop= new Properties();
+        prop= new Properties();
 		try {
 			FileInputStream ip=new FileInputStream("C:\\Programs\\pall\\SamplePOM\\src\\main\\java\\com\\qa\\crm\\config\\config.properties");
 		prop.load(ip);
