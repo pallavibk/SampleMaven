@@ -20,6 +20,7 @@ public class TestBase {
 	public TestBase() 
 	{
 		// Comment 1 to test git pull
+		// Shiva is great; Pallavi is waste
 		prop= new Properties();
 		try {
 			FileInputStream ip=new FileInputStream("C:\\Programs\\pall\\SamplePOM\\src\\main\\java\\com\\qa\\crm\\config\\config.properties");
